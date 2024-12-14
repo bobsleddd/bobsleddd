@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bobsleddd
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python, SQL, R
-- 💞️ I’m looking to collaborate on 
 - 📫 rtzou@umd.edu
 
 <!---
